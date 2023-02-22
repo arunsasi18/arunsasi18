@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun Sasi
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning MERN and web developing also
+- 💻 I’m front-end Developer in React
 - 💞️ I’m looking to collaborate on my vibes to improve career
 - 📫 Reach me on LinkedIn,GitHub
 
